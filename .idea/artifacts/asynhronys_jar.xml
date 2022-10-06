@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="asynhronys:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/asynhronys_jar</output-path>
+    <root id="archive" name="asynhronys.jar">
+      <element id="module-output" name="asynhronys" />
+      <element id="extracted-dir" path="D:/java/доп проги/json-20160810.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
